@@ -1,8 +1,8 @@
 # Cyber_physical_system_project
 # Temperature and Motion-Based Fan control 
 
-**Description**
-In this project cyber physical system is implemented, where Sensor Node and edge device is exchang the data via UART communication protocol. The goal of the project is to established a close-loop system, where the sensor node send the environmental data to the edge device and the edge device process and make a autonomous control decision for the sensor node to control the actuators based on the temperature and motion detection.
+**Description**<br>
+#In this project cyber physical system is implemented, where Sensor Node and edge device is exchang the data via UART communication protocol. The goal of the project is to established a close-loop system, where the sensor node send the environmental data to the edge device and the edge device process and make a autonomous control decision for the sensor node to control the actuators based on the temperature and motion detection.
 DHT11 and PIR motion sensor and ATmega328P micro controller, fan and led were used in sensor node part and Raspberry pi 5 was used as a edge device.
 
 Hardware requirement for operation
